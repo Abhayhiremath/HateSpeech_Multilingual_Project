@@ -1,0 +1,21 @@
+# Virtual environment
+.venv/
+
+# Dataset
+data/
+
+# Trained models
+models/
+
+# Jupyter notebooks
+notebooks/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Model weights
+*.pt
+*.bin
+*.pkl
+*.h5

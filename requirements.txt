@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+joblib
+emoji
+torch
+transformers
+tqdm
+streamlit
+lime
+shap
+matplotlib
